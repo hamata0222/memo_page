@@ -1,7 +1,0 @@
-<map id="usb::xhci::Device::InterruptIn" name="usb::xhci::Device::InterruptIn">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,147,119"/>
-<area shape="rect" id="node2" href="$classusb_1_1Device.html#a09f3af18ef78083ca59906a544dd07f0" title=" " alt="" coords="206,5,381,32"/>
-<area shape="rect" id="node3" href="$classusb_1_1xhci_1_1Ring.html#a275136396db44eaf6fda0eae42faa948" title="TRB に cycle bit を設定した上でリング末尾に追加する．" alt="" coords="215,56,371,83"/>
-<area shape="rect" id="node4" href="$classusb_1_1xhci_1_1DoorbellRegister.html#a58e7a7b95db73d6a4b89aac02af41c59" title=" " alt="" coords="195,107,392,149"/>
-<area shape="rect" id="node5" href="$unionusb_1_1xhci_1_1NormalTRB.html#a46d25dc608f600ff77952297e5bb76d5" title=" " alt="" coords="212,173,375,214"/>
-</map>

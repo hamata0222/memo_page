@@ -1,9 +1,0 @@
-<map id="Layer::SetWindow" name="Layer::SetWindow">
-<area shape="rect" id="node1" title="ウィンドウを設定する。既存のウィンドウはこのレイヤーから外れる。" alt="" coords="429,107,568,133"/>
-<area shape="rect" id="node2" href="$layer_8hpp.html#a9584ff9d12dceee3fcb636b59fd4758e" title=" " alt="" coords="240,5,355,32"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#a1268e378417d8d7667cf71ce368fbf15" title=" " alt="" coords="216,56,379,83"/>
-<area shape="rect" id="node5" href="$mouse_8hpp.html#ae6880a4011c9c0d0ecc7d7777944aa38" title=" " alt="" coords="237,107,358,133"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#acee3424322fea4b6263d1adc818f4163" title=" " alt="" coords="213,157,381,184"/>
-<area shape="rect" id="node7" href="$main_8cpp.html#a7869d270b99f1cdfde06e223386b253c" title=" " alt="" coords="219,208,376,235"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,107,165,133"/>
-</map>

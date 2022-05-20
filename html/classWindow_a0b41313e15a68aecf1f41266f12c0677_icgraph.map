@@ -1,4 +1,0 @@
-<map id="Window::At" name="Window::At">
-<area shape="rect" id="node1" title="指定した位置のピクセルを返す。" alt="" coords="183,5,277,32"/>
-<area shape="rect" id="node2" href="$classWindow.html#a38440a52e24d724d27c4285cf8e50163" title="与えられたFrameBufferにこのウィンドウの表示領域を描画する。" alt="" coords="5,5,135,32"/>
-</map>

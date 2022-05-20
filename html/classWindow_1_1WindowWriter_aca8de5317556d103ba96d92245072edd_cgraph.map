@@ -1,4 +1,0 @@
-<map id="Window::WindowWriter::Height" name="Window::WindowWriter::Height">
-<area shape="rect" id="node1" title="Heightは関連付けられたWindowの高さをピクセル単位で返す。" alt="" coords="5,5,179,47"/>
-<area shape="rect" id="node2" href="$classWindow.html#a7b4604969a30af0a6b70f9e8a2e12f9e" title="平面描画領域の高さをピクセル単位で表す。" alt="" coords="227,13,351,39"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="usb::Device::InitializePhase1" name="usb::Device::InitializePhase1">
-<area shape="rect" id="node1" title=" " alt="" coords="5,60,215,87"/>
-<area shape="rect" id="node2" href="$namespaceusb.html#ab77eefce7729845ebbced88714068099" title=" " alt="" coords="281,19,424,45"/>
-<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02device_8cpp_03.html#a80230346a928fc8f50f4f387b194b10a" title=" " alt="" coords="263,82,443,123"/>
-<area shape="rect" id="node3" href="$classusb_1_1Device.html#a593eee669fab0ded702dcdd43e9973a5" title=" " alt="" coords="500,5,665,32"/>
-<area shape="rect" id="node5" href="$classusb_1_1EndpointID.html#aa918f79810d36f9abed7fceb19500582" title=" " alt="" coords="491,56,675,83"/>
-<area shape="rect" id="node6" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#a2e90dc73426616c6244503f9deb15c3e" title=" " alt="" coords="494,107,671,149"/>
-<area shape="rect" id="node7" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#afa589db8f5737c356b31ec9014c0361b" title=" " alt="" coords="494,173,671,214"/>
-</map>

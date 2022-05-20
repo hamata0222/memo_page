@@ -1,4 +1,0 @@
-<map id="usb::xhci::Ring" name="usb::xhci::Ring">
-<area shape="rect" id="node1" title="Command/Transfer Ring を表すクラス．" alt="" coords="5,95,123,121"/>
-<area shape="rect" id="node2" href="$unionusb_1_1xhci_1_1TRB.html" title=" " alt="" coords="7,5,121,32"/>
-</map>

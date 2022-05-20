@@ -1,4 +1,0 @@
-<map id="SetupIdentityPageTable" name="SetupIdentityPageTable">
-<area shape="rect" id="node1" title="仮想アドレス=物理アドレスとなるようにページテーブルを設定する． 最終的に CR3 レジスタが正しく設定されたページテーブルを指すようになる．" alt="" coords="5,5,180,32"/>
-<area shape="rect" id="node2" href="$asmfunc_8h.html#a725f478c9c0a653d16ec0cedfc8f1601" title=" " alt="" coords="228,5,297,32"/>
-</map>

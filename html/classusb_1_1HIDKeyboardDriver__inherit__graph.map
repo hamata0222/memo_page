@@ -1,5 +1,0 @@
-<map id="usb::HIDKeyboardDriver" name="usb::HIDKeyboardDriver">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,184,181"/>
-<area shape="rect" id="node2" href="$classusb_1_1HIDBaseDriver.html" title=" " alt="" coords="20,80,169,107"/>
-<area shape="rect" id="node3" href="$classusb_1_1ClassDriver.html" title=" " alt="" coords="31,5,159,32"/>
-</map>

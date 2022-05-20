@@ -1,8 +1,0 @@
-<map id="TaskManager::SwitchTask" name="TaskManager::SwitchTask">
-<area shape="rect" id="node1" title=" " alt="" coords="633,31,821,57"/>
-<area shape="rect" id="node2" href="$timer_8hpp.html#abc6362df51aa633eb247647dcd056ed2" title=" " alt="" coords="413,5,585,32"/>
-<area shape="rect" id="node3" href="$classTaskManager.html#abe4fed90d413cf85d4a95314c68ea052" title=" " alt="" coords="423,56,575,83"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,31,165,57"/>
-<area shape="rect" id="node5" href="$classTask.html#a9d5a9fa75959b32e1836d249a390e69e" title=" " alt="" coords="242,56,337,83"/>
-<area shape="rect" id="node6" href="$classTaskManager.html#af98f192e3562be635c0267eaa2455bdf" title=" " alt="" coords="213,107,365,133"/>
-</map>

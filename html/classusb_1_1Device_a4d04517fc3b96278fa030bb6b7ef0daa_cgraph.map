@@ -1,8 +1,0 @@
-<map id="usb::Device::OnInterruptCompleted" name="usb::Device::OnInterruptCompleted">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,185,98"/>
-<area shape="rect" id="node2" href="$classusb_1_1EndpointID.html#aa918f79810d36f9abed7fceb19500582" title=" " alt="" coords="465,5,649,32"/>
-<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02device_8cpp_03.html#a80230346a928fc8f50f4f387b194b10a" title=" " alt="" coords="235,57,415,98"/>
-<area shape="rect" id="node6" href="$classusb_1_1EndpointID.html#ae3660c8ca3896ae75cf95fde5c7c0a62" title=" " alt="" coords="233,123,417,149"/>
-<area shape="rect" id="node4" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#a2e90dc73426616c6244503f9deb15c3e" title=" " alt="" coords="469,57,646,98"/>
-<area shape="rect" id="node5" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#afa589db8f5737c356b31ec9014c0361b" title=" " alt="" coords="469,122,646,163"/>
-</map>

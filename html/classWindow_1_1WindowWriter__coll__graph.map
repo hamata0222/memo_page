@@ -1,7 +1,0 @@
-<map id="Window::WindowWriter" name="Window::WindowWriter">
-<area shape="rect" id="node1" title="WindowWriterはWindowと関連付けられたPixelWriterを提供する。" alt="" coords="179,95,353,121"/>
-<area shape="rect" id="node3" href="$classWindow.html" title="Windowクラスはグラフィックの表示領域を表す。" alt="" coords="177,184,251,211"/>
-<area shape="rect" id="node2" href="$classPixelWriter.html" title=" " alt="" coords="219,5,313,32"/>
-<area shape="rect" id="node4" href="$classFrameBuffer.html" title=" " alt="" coords="25,95,128,121"/>
-<area shape="rect" id="node5" href="$structFrameBufferConfig.html" title=" " alt="" coords="5,5,148,32"/>
-</map>

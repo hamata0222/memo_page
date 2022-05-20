@@ -1,4 +1,0 @@
-<map id="LayerManager::MoveRelative" name="LayerManager::MoveRelative">
-<area shape="rect" id="node1" title="レイヤーの位置情報を指定された相対座標へと更新する。再描画はしない。" alt="" coords="200,5,413,32"/>
-<area shape="rect" id="node2" href="$classMouse.html#a4c5dcd5486374ee4eda4db19c63eed3d" title=" " alt="" coords="5,5,152,32"/>
-</map>

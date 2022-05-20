@@ -1,8 +1,0 @@
-<map id="LayerManager::Draw" name="LayerManager::Draw">
-<area shape="rect" id="node1" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="5,84,163,111"/>
-<area shape="rect" id="node2" href="$classFrameBuffer.html#a2859dc6b82a9c130a937989f46fb1c8d" title=" " alt="" coords="211,84,353,111"/>
-<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#aa3237796fefeed728b104cb92c15df0a" title=" " alt="" coords="629,30,809,86"/>
-<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a69706000b5ad7f971aeb46579a0507da" title=" " alt="" coords="401,30,581,86"/>
-<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a6c51e8503bd24805c6d8edab9bc13fe6" title=" " alt="" coords="401,110,581,166"/>
-<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#ad701e20b08a2d0e6009600125e19845c" title=" " alt="" coords="401,190,581,246"/>
-</map>

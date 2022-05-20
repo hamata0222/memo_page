@@ -1,8 +1,0 @@
-<map id="Layer::Move" name="Layer::Move">
-<area shape="rect" id="node1" title="レイヤーの位置情報を指定された絶対座標へと更新する。再描画はしない。" alt="" coords="429,81,532,108"/>
-<area shape="rect" id="node2" href="$layer_8hpp.html#a9584ff9d12dceee3fcb636b59fd4758e" title=" " alt="" coords="240,5,355,32"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#a1268e378417d8d7667cf71ce368fbf15" title=" " alt="" coords="216,56,379,83"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#acee3424322fea4b6263d1adc818f4163" title=" " alt="" coords="213,107,381,133"/>
-<area shape="rect" id="node6" href="$main_8cpp.html#a7869d270b99f1cdfde06e223386b253c" title=" " alt="" coords="219,157,376,184"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,81,165,108"/>
-</map>
