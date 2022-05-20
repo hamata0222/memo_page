@@ -1,0 +1,6 @@
+<map id="LayerManager::UpDown" name="LayerManager::UpDown">
+<area shape="rect" id="node1" title="レイヤーの高さ方向の位置を指定された位置に移動する。" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classLayerManager.html#a2a6c85f5aca335b0213537f02e453c9d" title=" " alt="" coords="433,5,620,32"/>
+<area shape="rect" id="node4" href="$classLayerManager.html#a706cfc205de341349c003762b7f1e1fa" title="レイヤーを非表示とする。" alt="" coords="232,31,385,57"/>
+<area shape="rect" id="node3" href="$classLayer.html#ad8c452ea77b3004cfebeae912a8906cc" title="このインスタンスのIDを返す。" alt="" coords="668,5,748,32"/>
+</map>

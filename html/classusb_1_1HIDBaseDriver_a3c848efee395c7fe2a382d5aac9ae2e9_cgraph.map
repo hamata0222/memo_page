@@ -1,0 +1,7 @@
+<map id="usb::HIDBaseDriver::OnInterruptCompleted" name="usb::HIDBaseDriver::OnInterruptCompleted">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,180,119"/>
+<area shape="rect" id="node2" href="$classusb_1_1Device.html#a09f3af18ef78083ca59906a544dd07f0" title=" " alt="" coords="229,5,404,32"/>
+<area shape="rect" id="node3" href="$classusb_1_1EndpointID.html#aa27288802516431304bdae0de9c89035" title=" " alt="" coords="239,56,394,83"/>
+<area shape="rect" id="node4" href="$classusb_1_1HIDBaseDriver.html#ab1f43c5068c3781c0238a21c70e73cef" title=" " alt="" coords="242,107,391,149"/>
+<area shape="rect" id="node5" href="$classusb_1_1ClassDriver.html#adcd65c74016ac0c4ed4d10668964e27b" title=" " alt="" coords="228,173,405,214"/>
+</map>

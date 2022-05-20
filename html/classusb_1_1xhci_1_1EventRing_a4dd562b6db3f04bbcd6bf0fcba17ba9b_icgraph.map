@@ -1,0 +1,10 @@
+<map id="usb::xhci::EventRing::WriteDequeuePointer" name="usb::xhci::EventRing::WriteDequeuePointer">
+<area shape="rect" id="node1" title=" " alt="" coords="901,35,1071,76"/>
+<area shape="rect" id="node2" href="$classusb_1_1xhci_1_1EventRing.html#a607645ceb094980f5d3b8dfe855f028c" title=" " alt="" coords="683,5,837,47"/>
+<area shape="rect" id="node6" href="$classusb_1_1xhci_1_1EventRing.html#a75b7ddd0e08959be4e86db7a6b75dfb7" title=" " alt="" coords="667,71,853,98"/>
+<area shape="rect" id="node3" href="$classusb_1_1xhci_1_1Controller.html#ad286e798319710177e793c792366f3de" title=" " alt="" coords="455,5,607,47"/>
+<area shape="rect" id="node4" href="$namespaceusb_1_1xhci.html#a230710c277871c2a8fb820799c2e05e6" title=" " alt="" coords="233,15,377,42"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,42,165,69"/>
+<area shape="rect" id="node7" href="$namespaceusb_1_1xhci.html#a915e51b4a22646799d4dfce16e5d4e69" title="イベントリングに登録されたイベントを高々1つ処理する．" alt="" coords="444,71,619,98"/>
+<area shape="rect" id="node8" href="$namespaceusb_1_1xhci.html#a62b0a181d4588f159ce8c67cc9206597" title=" " alt="" coords="213,67,396,94"/>
+</map>

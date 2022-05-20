@@ -1,0 +1,16 @@
+<map id="printk" name="printk">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,65,302"/>
+<area shape="rect" id="node2" href="$classConsole.html#aef377e36e2bc7a3d8bee3086006ab7a7" title=" " alt="" coords="113,275,255,302"/>
+<area shape="rect" id="node3" href="$classLayerManager.html#ae0ee4819ef0f0202b30209e4255ce127" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="303,178,460,204"/>
+<area shape="rect" id="node9" href="$classConsole.html#a7d8b60aa36e7ac1c2a9fc8d8cc8016f0" title=" " alt="" coords="314,275,449,302"/>
+<area shape="rect" id="node13" href="$font_8cpp.html#ae0649afc7137f19fc1dd3d308a1a4890" title=" " alt="" coords="745,326,833,352"/>
+<area shape="rect" id="node4" href="$classFrameBuffer.html#a2859dc6b82a9c130a937989f46fb1c8d" title=" " alt="" coords="508,130,651,156"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#aa3237796fefeed728b104cb92c15df0a" title=" " alt="" coords="927,35,1107,91"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a69706000b5ad7f971aeb46579a0507da" title=" " alt="" coords="699,35,879,91"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a6c51e8503bd24805c6d8edab9bc13fe6" title=" " alt="" coords="699,115,879,171"/>
+<area shape="rect" id="node8" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#ad701e20b08a2d0e6009600125e19845c" title=" " alt="" coords="699,195,879,251"/>
+<area shape="rect" id="node10" href="$graphics_8cpp.html#afdf2e5457fd56426e0b55dcfd833b203" title=" " alt="" coords="526,250,633,276"/>
+<area shape="rect" id="node12" href="$font_8cpp.html#ae6d8171fdccc1a03d42c26f9558d4be4" title=" " alt="" coords="532,300,627,327"/>
+<area shape="rect" id="node11" href="$classPixelWriter.html#a054dce7b3582352c5590e66cee771845" title=" " alt="" coords="949,275,1085,302"/>
+<area shape="rect" id="node14" href="$font_8cpp.html#a102d7798b95017da8dc5cfeb1a562f78" title=" " alt="" coords="980,326,1053,352"/>
+</map>

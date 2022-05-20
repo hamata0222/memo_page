@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['b_1931',['b',['../structPixelColor.html#a70c976c43cc4d1d19274f67cdf6d9377',1,'PixelColor']]],
+  ['back_5fbuffer_5f_1932',['back_buffer_',['../classLayerManager.html#a3577d3f8d867e6a8f98fa85804020d4d',1,'LayerManager']]],
+  ['base_1933',['base',['../structpci_1_1ClassCode.html#a0f0a69641df3633f2378285dc1b28865',1,'pci::ClassCode']]],
+  ['base_5fhigh_1934',['base_high',['../unionSegmentDescriptor.html#a6ac26e0175da22c92bc00665a65e4fb7',1,'SegmentDescriptor::base_high()'],['../segment_8hpp.html#ac37e7aaa956214a10c8165b0849aad25',1,'base_high():&#160;segment.hpp']]],
+  ['base_5flow_1935',['base_low',['../unionSegmentDescriptor.html#a82e73a13ca05e1ad0f8ff574d3029df4',1,'SegmentDescriptor::base_low()'],['../segment_8hpp.html#a7f48ed6af7ea5e064bd6979e863557d3',1,'base_low():&#160;segment.hpp']]],
+  ['base_5fmiddle_1936',['base_middle',['../unionSegmentDescriptor.html#a2f8e5bcc388e8d8c7fa8608301b984e7',1,'SegmentDescriptor::base_middle()'],['../segment_8hpp.html#afe923c23c507f2900ce221927c69d3b8',1,'base_middle():&#160;segment.hpp']]],
+  ['best_5feffort_5fservice_5flatency_5fdeep_1937',['best_effort_service_latency_deep',['../unionusb_1_1xhci_1_1PORTHLPMC__Bitmap.html#a178bfde13769ecf9bd8561f5fe99c5a9',1,'usb::xhci::PORTHLPMC_Bitmap::best_effort_service_latency_deep()'],['../registers_8hpp.html#ad9e36eaa7c989365501eff86c68cc40f',1,'best_effort_service_latency_deep():&#160;registers.hpp']]],
+  ['bg_5fcolor_5f_1938',['bg_color_',['../classConsole.html#aeb063a98965f30199a9817d105193ed3',1,'Console']]],
+  ['bits_1939',['bits',['../structusb_1_1SetupData.html#ae30ca89d011fe51a8fd419fcc3c4cf7c',1,'usb::SetupData::bits()'],['../setupdata_8hpp.html#a0b7d2160b3407f9991a86725c157b1d8',1,'bits():&#160;setupdata.hpp']]],
+  ['block_5fevent_5finterrupt_1940',['block_event_interrupt',['../unionusb_1_1xhci_1_1NormalTRB.html#a0d8129d4229486bd714a083a446dbc67',1,'usb::xhci::NormalTRB::block_event_interrupt()'],['../trb_8hpp.html#a177316d5af9c7247cfeb4cf973d0a8bd',1,'block_event_interrupt():&#160;trb.hpp']]],
+  ['block_5fset_5faddress_5frequest_1941',['block_set_address_request',['../unionusb_1_1xhci_1_1AddressDeviceCommandTRB.html#afd37c34955aa5b998ab337bad1c05ac7',1,'usb::xhci::AddressDeviceCommandTRB::block_set_address_request()'],['../trb_8hpp.html#a9dca3edeef46b0a3a1ec30e6a05c38bf',1,'block_set_address_request():&#160;trb.hpp']]],
+  ['buf_5f_1942',['buf_',['../classusb_1_1HIDBaseDriver.html#a8d265a150bd6aeb282f2e712f36e9d5b',1,'usb::HIDBaseDriver::buf_()'],['../classusb_1_1Device.html#af57f3707b39437a18fb100334750f54e',1,'usb::Device::buf_()'],['../classusb_1_1xhci_1_1Ring.html#a1791ba2000a1aa1a852f72b5ac314bb3',1,'usb::xhci::Ring::buf_()'],['../classusb_1_1xhci_1_1EventRing.html#a1e32f574c3870a1f40d4e781f8f9ac90',1,'usb::xhci::EventRing::buf_()']]],
+  ['buf_5fsize_5f_1943',['buf_size_',['../classusb_1_1xhci_1_1Ring.html#aab5dc75a22f49743c79636e894bf79c8',1,'usb::xhci::Ring::buf_size_()'],['../classusb_1_1xhci_1_1EventRing.html#aae73539ecc66504ad3f95f59de068359',1,'usb::xhci::EventRing::buf_size_()']]],
+  ['buffer_1944',['buffer',['../structMemoryMap.html#add407a72f1c9114dfaf925daf95529e4',1,'MemoryMap']]],
+  ['buffer_5f_1945',['buffer_',['../classConsole.html#a89b8d926071c8e2583f5d157041e0144',1,'Console::buffer_()'],['../classFrameBuffer.html#abc7aecae1e2614389a64b119f2a8179c',1,'FrameBuffer::buffer_()']]],
+  ['buffer_5fsize_1946',['buffer_size',['../structMemoryMap.html#a9f64c05d1a126685d635eaacb169847a',1,'MemoryMap']]],
+  ['bus_1947',['bus',['../structpci_1_1Device.html#a903a6f7e90f79bea39114e81e3fbfec0',1,'pci::Device']]],
+  ['bw_5fnegotiation_5fcapability_1948',['bw_negotiation_capability',['../unionusb_1_1xhci_1_1HCCPARAMS1__Bitmap.html#a8ad0a3b398c6af21fbec8142f7db9bb7',1,'usb::xhci::HCCPARAMS1_Bitmap::bw_negotiation_capability()'],['../registers_8hpp.html#a6d5476a84d6554ddef23b5a07e0f74e3',1,'bw_negotiation_capability():&#160;registers.hpp']]]
+];

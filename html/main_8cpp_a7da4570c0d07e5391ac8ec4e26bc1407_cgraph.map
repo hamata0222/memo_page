@@ -1,0 +1,52 @@
+<map id="KernelMainNewStack" name="KernelMainNewStack">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1111,165,1137"/>
+<area shape="rect" id="node2" href="$classTimerManager.html#aae2e325560c8ad943c0446c7ae38fabf" title=" " alt="" coords="483,528,671,555"/>
+<area shape="rect" id="node3" href="$classTaskManager.html#a8b3a3e43173fbde36e0c31cc657e5914" title=" " alt="" coords="213,139,407,165"/>
+<area shape="rect" id="node4" href="$classTimerManager.html#a116c7cf6227ac670259b0b485634996c" title=" " alt="" coords="477,579,677,605"/>
+<area shape="rect" id="node5" href="$classLayerManager.html#ae0ee4819ef0f0202b30209e4255ce127" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="498,1795,655,1821"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a678dc3298277ceebf3cf40a98b9411d0" title=" " alt="" coords="514,1301,639,1328"/>
+<area shape="rect" id="node8" href="$graphics_8cpp.html#afdf2e5457fd56426e0b55dcfd833b203" title=" " alt="" coords="765,1453,871,1480"/>
+<area shape="rect" id="node11" href="$classTask.html#a069d731f3066cc56a03b46f50db2cb2c" title=" " alt="" coords="273,427,347,453"/>
+<area shape="rect" id="node12" href="$classTask.html#a9e27fa9dec3c80fdf55609c133e82448" title=" " alt="" coords="245,33,375,60"/>
+<area shape="rect" id="node14" href="$namespaceacpi.html#ac450663bf5ff0b9e30865ed7c6136b65" title=" " alt="" coords="253,189,367,216"/>
+<area shape="rect" id="node17" href="$logger_8cpp.html#a7b67f04545cc3bc4793c750046527b99" title=" " alt="" coords="795,427,841,453"/>
+<area shape="rect" id="node19" href="$namespaceusb_1_1xhci.html#a230710c277871c2a8fb820799c2e05e6" title=" " alt="" coords="238,325,382,352"/>
+<area shape="rect" id="node22" href="$console_8cpp.html#a62aa5e6c3a7fed2a6081c04761ba02fe" title=" " alt="" coords="245,680,375,707"/>
+<area shape="rect" id="node23" href="$graphics_8cpp.html#ad3d9d05a951b71203b1fe8445337e8df" title=" " alt="" coords="243,731,377,757"/>
+<area shape="rect" id="node24" href="$interrupt_8cpp.html#a87e2481e2b056e4f082808306098bd30" title=" " alt="" coords="243,781,377,808"/>
+<area shape="rect" id="node25" href="$keyboard_8cpp.html#adc4ef092d19dc85a762031353c7ee1c9" title=" " alt="" coords="241,832,379,859"/>
+<area shape="rect" id="node26" href="$timer_8cpp.html#abadd9a50cd926e4306a9907eba31cd40" title=" " alt="" coords="233,883,387,909"/>
+<area shape="rect" id="node27" href="$layer_8cpp.html#a9584ff9d12dceee3fcb636b59fd4758e" title=" " alt="" coords="253,629,367,656"/>
+<area shape="rect" id="node28" href="$graphics_8cpp.html#a6c3763d74a05c59f2df221b7288ebd57" title=" " alt="" coords="530,807,623,833"/>
+<area shape="rect" id="node29" href="$main_8cpp.html#a1268e378417d8d7667cf71ce368fbf15" title=" " alt="" coords="229,1035,391,1061"/>
+<area shape="rect" id="node30" href="$memory__manager_8cpp.html#aef6bf9649844f2e303fcf2b683ed97c8" title=" " alt="" coords="482,477,671,504"/>
+<area shape="rect" id="node31" href="$mouse_8cpp.html#ae6880a4011c9c0d0ecc7d7777944aa38" title=" " alt="" coords="249,1136,371,1163"/>
+<area shape="rect" id="node32" href="$paging_8cpp.html#ad19ba7ca0e80a26aa87b56e396a290d6" title=" " alt="" coords="249,1187,371,1213"/>
+<area shape="rect" id="node33" href="$pci_8cpp.html#a4f62b443b1c7b11c89ddb538f4341d1c" title=" " alt="" coords="527,921,626,948"/>
+<area shape="rect" id="node34" href="$segment_8cpp.html#a3c284afad88744d28cc8efab54d4ff5d" title=" " alt="" coords="225,1288,395,1315"/>
+<area shape="rect" id="node35" href="$task_8cpp.html#ab0ef6526a83aa8bc56ef6d492eb3f047" title=" " alt="" coords="257,528,363,555"/>
+<area shape="rect" id="node36" href="$main_8cpp.html#acee3424322fea4b6263d1adc818f4163" title=" " alt="" coords="226,1389,394,1416"/>
+<area shape="rect" id="node37" href="$main_8cpp.html#a7869d270b99f1cdfde06e223386b253c" title=" " alt="" coords="231,1440,389,1467"/>
+<area shape="rect" id="node38" href="$main_8cpp.html#a4d5f66510d5a8ca9f2967d5316cc9cef" title=" " alt="" coords="243,1339,377,1365"/>
+<area shape="rect" id="node39" href="$classTaskManager.html#aa1c8f97370108cd8e756bb215e27dd88" title=" " alt="" coords="223,1541,397,1568"/>
+<area shape="rect" id="node40" href="$main_8cpp.html#a36fe4a3ea4506cb4d128b11f93187f71" title=" " alt="" coords="547,1643,607,1669"/>
+<area shape="rect" id="node41" href="$namespaceusb_1_1xhci.html#a62b0a181d4588f159ce8c67cc9206597" title=" " alt="" coords="485,1029,668,1056"/>
+<area shape="rect" id="node42" href="$classTask.html#a2c0b1483e0cf904d5c1281187fd4fc5b" title=" " alt="" coords="225,1693,395,1720"/>
+<area shape="rect" id="node43" href="$logger_8cpp.html#a79479ec1c48910a81f1b696f5a9aa3eb" title=" " alt="" coords="259,1744,361,1771"/>
+<area shape="rect" id="node44" href="$classTask.html#a9d5a9fa75959b32e1836d249a390e69e" title=" " alt="" coords="263,1947,357,1973"/>
+<area shape="rect" id="node45" href="$classTaskManager.html#abe4fed90d413cf85d4a95314c68ea052" title=" " alt="" coords="501,1972,653,1999"/>
+<area shape="rect" id="node46" href="$main_8cpp.html#a6765b807c4c0a8a8ac4e9e846fd85b21" title=" " alt="" coords="280,1795,340,1821"/>
+<area shape="rect" id="node47" href="$font_8cpp.html#ae6d8171fdccc1a03d42c26f9558d4be4" title=" " alt="" coords="529,1871,624,1897"/>
+<area shape="rect" id="node48" href="$main_8cpp.html#a0978c54a823baad38b59ea09d7c20b20" title=" " alt="" coords="273,1643,347,1669"/>
+<area shape="rect" id="node49" href="$classTask.html#a63f12840ce9d7efe7b713af99ef08bb9" title=" " alt="" coords="255,2048,365,2075"/>
+<area shape="rect" id="node50" href="$classTaskManager.html#ae80163e87e86925f268f41d71052a7af" title=" " alt="" coords="493,2073,660,2100"/>
+<area shape="rect" id="node6" href="$classFrameBuffer.html#a2859dc6b82a9c130a937989f46fb1c8d" title=" " alt="" coords="747,1795,889,1821"/>
+<area shape="rect" id="node10" href="$graphics_8hpp.html#a84d85927acdb0cd6d6715e7d7dd6a2ea" title=" " alt="" coords="783,1327,853,1353"/>
+<area shape="rect" id="node9" href="$classPixelWriter.html#a054dce7b3582352c5590e66cee771845" title=" " alt="" coords="937,1453,1073,1480"/>
+<area shape="rect" id="node13" href="$asmfunc_8h.html#a91d75bee9104fc9ae343df28dd9ef032" title=" " alt="" coords="541,5,612,32"/>
+<area shape="rect" id="node15" href="$structacpi_1_1XSDT.html#aebc68b141d9b461599105c447d9e985a" title=" " alt="" coords="508,56,645,83"/>
+<area shape="rect" id="node16" href="$structacpi_1_1RSDP.html#a01bd71a5e2cc40b189b1634e92babf9d" title=" " alt="" coords="505,107,648,133"/>
+<area shape="rect" id="node18" href="$structacpi_1_1DescriptionHeader.html#ac5dda007749c556fc6f346c7da75635d" title=" " alt="" coords="487,209,666,250"/>
+<area shape="rect" id="node20" href="$namespacepci.html#af57068dc97191fcc3cf5b5d4b201e433" title=" " alt="" coords="455,325,699,352"/>
+<area shape="rect" id="node21" href="$namespaceusb_1_1xhci.html#ac2787bcc15dfa613708459412c73351f" title=" " alt="" coords="489,376,665,403"/>
+</map>

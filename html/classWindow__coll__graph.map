@@ -1,0 +1,7 @@
+<map id="Window" name="Window">
+<area shape="rect" id="node1" title="Windowクラスはグラフィックの表示領域を表す。" alt="" coords="136,184,211,211"/>
+<area shape="rect" id="node4" href="$classWindow_1_1WindowWriter.html" title="WindowWriterはWindowと関連付けられたPixelWriterを提供する。" alt="" coords="9,273,183,300"/>
+<area shape="rect" id="node2" href="$classFrameBuffer.html" title=" " alt="" coords="122,95,225,121"/>
+<area shape="rect" id="node3" href="$structFrameBufferConfig.html" title=" " alt="" coords="102,5,245,32"/>
+<area shape="rect" id="node5" href="$classPixelWriter.html" title=" " alt="" coords="5,184,99,211"/>
+</map>

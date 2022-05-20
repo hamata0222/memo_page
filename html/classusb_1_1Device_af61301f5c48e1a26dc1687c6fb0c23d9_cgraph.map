@@ -1,0 +1,11 @@
+<map id="usb::Device::InitializePhase2" name="usb::Device::InitializePhase2">
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,215,189"/>
+<area shape="rect" id="node2" href="$namespaceanonymous__namespace_02device_8cpp_03.html#a80230346a928fc8f50f4f387b194b10a" title=" " alt="" coords="285,57,465,98"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02device_8cpp_03.html#adc61419d7da188fc70d5b110113514f2" title=" " alt="" coords="269,122,481,163"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02device_8cpp_03.html#ac3b019620ca8ba8d39ba26c3532f9ad4" title=" " alt="" coords="263,187,487,229"/>
+<area shape="rect" id="node8" href="$namespaceusb.html#ae2f69bec73f944387f79c3308499bcff" title=" " alt="" coords="294,253,455,280"/>
+<area shape="rect" id="node3" href="$classusb_1_1EndpointID.html#aa918f79810d36f9abed7fceb19500582" title=" " alt="" coords="535,5,719,32"/>
+<area shape="rect" id="node4" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#a2e90dc73426616c6244503f9deb15c3e" title=" " alt="" coords="538,57,715,98"/>
+<area shape="rect" id="node5" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#afa589db8f5737c356b31ec9014c0361b" title=" " alt="" coords="538,122,715,163"/>
+<area shape="rect" id="node9" href="$classusb_1_1Device.html#ad6718bfb2eafee84623896cedeb82357" title=" " alt="" coords="539,253,715,280"/>
+</map>

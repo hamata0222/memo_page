@@ -1,0 +1,5 @@
+<map id="SetupIdentityPageTable" name="SetupIdentityPageTable">
+<area shape="rect" id="node1" title="仮想アドレス=物理アドレスとなるようにページテーブルを設定する． 最終的に CR3 レジスタが正しく設定されたページテーブルを指すようになる．" alt="" coords="383,5,557,32"/>
+<area shape="rect" id="node2" href="$paging_8hpp.html#ad19ba7ca0e80a26aa87b56e396a290d6" title=" " alt="" coords="213,5,335,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,5,165,32"/>
+</map>

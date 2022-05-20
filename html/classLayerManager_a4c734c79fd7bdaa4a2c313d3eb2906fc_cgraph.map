@@ -1,0 +1,4 @@
+<map id="LayerManager::FindLayerByPosition" name="LayerManager::FindLayerByPosition">
+<area shape="rect" id="node1" title="指定された座標にウィンドウを持つ最も上に表示されているレイヤーを探す。" alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classLayer.html#abea0e8f858795ae1bdb2fc73d45f78b8" title="設定されたウィンドウを返す。" alt="" coords="256,13,397,39"/>
+</map>

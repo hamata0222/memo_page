@@ -1,0 +1,6 @@
+<map id="usb::xhci::Controller::PrimaryEventRing" name="usb::xhci::Controller::PrimaryEventRing">
+<area shape="rect" id="node1" title=" " alt="" coords="667,23,819,65"/>
+<area shape="rect" id="node2" href="$namespaceusb_1_1xhci.html#a915e51b4a22646799d4dfce16e5d4e69" title="イベントリングに登録されたイベントを高々1つ処理する．" alt="" coords="444,5,619,32"/>
+<area shape="rect" id="node3" href="$namespaceusb_1_1xhci.html#a62b0a181d4588f159ce8c67cc9206597" title=" " alt="" coords="213,31,396,57"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,31,165,57"/>
+</map>

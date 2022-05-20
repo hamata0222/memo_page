@@ -1,0 +1,6 @@
+<map id="FrameBuffer::Writer" name="FrameBuffer::Writer">
+<area shape="rect" id="node1" title=" " alt="" coords="404,31,555,57"/>
+<area shape="rect" id="node2" href="$classWindow.html#a38440a52e24d724d27c4285cf8e50163" title="与えられたFrameBufferにこのウィンドウの表示領域を描画する。" alt="" coords="227,5,356,32"/>
+<area shape="rect" id="node3" href="$classWindow.html#a0c34ec0e15c9c27ccf9f6e81cf68699e" title="指定した位置にピクセルを書き込む。" alt="" coords="233,56,349,83"/>
+<area shape="rect" id="node4" href="$classWindow_1_1WindowWriter.html#ae184e3e26eaf4f765c50c1890fc03c0f" title="指定された位置に指定された色を描く" alt="" coords="5,49,179,90"/>
+</map>

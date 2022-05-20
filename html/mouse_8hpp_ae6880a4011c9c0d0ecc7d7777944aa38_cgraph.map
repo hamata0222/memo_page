@@ -1,0 +1,11 @@
+<map id="InitializeMouse" name="InitializeMouse">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,127,133"/>
+<area shape="rect" id="node2" href="$mouse_8cpp.html#abc18ded400aa4b92ed530286a77c047a" title=" " alt="" coords="198,5,339,32"/>
+<area shape="rect" id="node4" href="$classLayer.html#ad8c452ea77b3004cfebeae912a8906cc" title="このインスタンスのIDを返す。" alt="" coords="847,107,927,133"/>
+<area shape="rect" id="node5" href="$classLayerManager.html#ac7298e4ffa91db5d074c6dd3c7246a6d" title="新しいレイヤーを生成して参照を返す。" alt="" coords="175,107,363,133"/>
+<area shape="rect" id="node6" href="$classLayer.html#a6f3fc422be876742042d5a9d0d59145f" title="ウィンドウを設定する。既存のウィンドウはこのレイヤーから外れる。" alt="" coords="199,157,338,184"/>
+<area shape="rect" id="node7" href="$classLayerManager.html#aaee961661104c30405b50fffa02bf2b8" title="レイヤーの高さ方向の位置を指定された位置に移動する。" alt="" coords="179,208,358,235"/>
+<area shape="rect" id="node3" href="$classPixelWriter.html#a054dce7b3582352c5590e66cee771845" title=" " alt="" coords="419,5,555,32"/>
+<area shape="rect" id="node8" href="$classLayerManager.html#a2a6c85f5aca335b0213537f02e453c9d" title=" " alt="" coords="612,157,799,184"/>
+<area shape="rect" id="node9" href="$classLayerManager.html#a706cfc205de341349c003762b7f1e1fa" title="レイヤーを非表示とする。" alt="" coords="411,208,564,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="usb::xhci::DoorbellRegister" name="usb::xhci::DoorbellRegister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,203,240"/>
+<area shape="rect" id="node2" href="$classMemMapRegister.html" title=" " alt="" coords="9,109,199,151"/>
+<area shape="rect" id="node3" href="$unionusb_1_1xhci_1_1Doorbell__Bitmap.html" title=" " alt="" coords="33,5,175,47"/>
+</map>

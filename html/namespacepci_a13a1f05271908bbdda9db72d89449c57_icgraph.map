@@ -1,0 +1,9 @@
+<map id="pci::IsSingleFunctionDevice" name="pci::IsSingleFunctionDevice">
+<area shape="rect" id="node1" title="単一ファンクションの場合に真を返す" alt="" coords="1047,20,1247,47"/>
+<area shape="rect" id="node2" href="$namespacepci.html#a32d16aebcd18659dca6ff21a7897b946" title="PCI デバイスをすべて探索し devices に格納する" alt="" coords="391,5,512,32"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#ac6eb7d05e712e0090d52ba79c16b0376" title="指定のデバイス番号の各ファンクションをスキャンする． 有効なファンクションを見つけたら ScanFunction を実行する．" alt="" coords="819,42,999,83"/>
+<area shape="rect" id="node3" href="$pci_8hpp.html#a4f62b443b1c7b11c89ddb538f4341d1c" title=" " alt="" coords="213,5,312,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#a01f5ee39b0262ff7abc85d9482d4fcec" title="指定のバス番号の各デバイスをスキャンする． 有効なデバイスを見つけたら ScanDevice を実行する．" alt="" coords="591,42,771,83"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#a4681e89349d4364b59c42b981478da99" title="指定のファンクションを devices に追加する． もし PCI&#45;PCI ブリッジなら，セカンダリバスに対し ScanBus を実行する" alt="" coords="360,71,543,113"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="anonymous_namespace{device::cpp}::Log" name="anonymous_namespace{device::cpp}::Log">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,185,80"/>
+<area shape="rect" id="node2" href="$structusb_1_1HIDDescriptor.html#a13f319b46ea9b8d5258b857e84f8df96" title="HID 特有のディスクリプタに関する情報を得る．" alt="" coords="246,5,401,47"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02device_8cpp_03.html#a80230346a928fc8f50f4f387b194b10a" title=" " alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node4" href="$classusb_1_1EndpointID.html#aa918f79810d36f9abed7fceb19500582" title=" " alt="" coords="461,19,645,46"/>
+<area shape="rect" id="node5" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#a2e90dc73426616c6244503f9deb15c3e" title=" " alt="" coords="465,71,642,112"/>
+<area shape="rect" id="node6" href="$unionusb_1_1xhci_1_1TransferEventTRB.html#afa589db8f5737c356b31ec9014c0361b" title=" " alt="" coords="465,136,642,177"/>
+</map>

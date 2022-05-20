@@ -1,0 +1,4 @@
+<map id="pci::Device" name="pci::Device">
+<area shape="rect" id="node1" title="PCI デバイスを操作するための基礎データを格納する" alt="" coords="17,95,111,121"/>
+<area shape="rect" id="node2" href="$structpci_1_1ClassCode.html" title=" " alt="" coords="5,5,123,32"/>
+</map>

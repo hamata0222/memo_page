@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['observers_5f_2340',['observers_',['../classusb_1_1HIDKeyboardDriver.html#a8f593c08ea41c147b14b10f4492e7659',1,'usb::HIDKeyboardDriver::observers_()'],['../classusb_1_1HIDMouseDriver.html#ad41750bda9cde31fd01cc60f136267d0',1,'usb::HIDMouseDriver::observers_()']]],
+  ['oem_5fid_2341',['oem_id',['../structacpi_1_1RSDP.html#ae40f3201ade359bde7f0e8ecba6dcbc5',1,'acpi::RSDP::oem_id()'],['../structacpi_1_1DescriptionHeader.html#ab9e4fbbd17c3b6c196bda346d224b425',1,'acpi::DescriptionHeader::oem_id()'],['../acpi_8hpp.html#a7713337f58022f54635c8ac926b0abbd',1,'oem_id():&#160;acpi.hpp']]],
+  ['oem_5frevision_2342',['oem_revision',['../structacpi_1_1DescriptionHeader.html#a5a0cabdf8db4209c51001bc953060f96',1,'acpi::DescriptionHeader::oem_revision()'],['../acpi_8hpp.html#a8a5fc612c40baa053ad58bdcdb9f2995',1,'oem_revision():&#160;acpi.hpp']]],
+  ['oem_5ftable_5fid_2343',['oem_table_id',['../structacpi_1_1DescriptionHeader.html#a3007c1a7f9ca370b857938dcf53ba6c2',1,'acpi::DescriptionHeader::oem_table_id()'],['../acpi_8hpp.html#ab237de4008b155a88f752ee9ea55f542',1,'oem_table_id():&#160;acpi.hpp']]],
+  ['offset_5fhigh_2344',['offset_high',['../structInterruptDescriptor.html#a1c0c30b507493f107c429cdfdf5721ff',1,'InterruptDescriptor::offset_high()'],['../interrupt_8hpp.html#a8ae200aa7aa01feab491177777fc0dd9',1,'offset_high():&#160;interrupt.hpp']]],
+  ['offset_5flow_2345',['offset_low',['../structInterruptDescriptor.html#a67ffa0e096129630ffa903e06c8abc06',1,'InterruptDescriptor::offset_low()'],['../interrupt_8hpp.html#a11b1c6ed61493da558a28e77fa1efee6',1,'offset_low():&#160;interrupt.hpp']]],
+  ['offset_5fmiddle_2346',['offset_middle',['../structInterruptDescriptor.html#a1972ff3294783ebae6b9ff760e77d126',1,'InterruptDescriptor::offset_middle()'],['../interrupt_8hpp.html#a93ca644cd6d49d2c4aac7475f11537b8',1,'offset_middle():&#160;interrupt.hpp']]],
+  ['op_5f_2347',['op_',['../classusb_1_1xhci_1_1Controller.html#a3d88b629fb17a599e891db31b8bcc717',1,'usb::xhci::Controller']]],
+  ['over_5fcurrent_5factive_2348',['over_current_active',['../unionusb_1_1xhci_1_1PORTSC__Bitmap.html#adf7fc405ef5a8bc0de8ab7b8750d1075',1,'usb::xhci::PORTSC_Bitmap::over_current_active()'],['../registers_8hpp.html#ace6b84aff30f539cc19f9c8d7607b9d6',1,'over_current_active():&#160;registers.hpp']]],
+  ['over_5fcurrent_5fchange_2349',['over_current_change',['../unionusb_1_1xhci_1_1PORTSC__Bitmap.html#a73b9517063338ebf4a79153a5d12b430',1,'usb::xhci::PORTSC_Bitmap::over_current_change()'],['../registers_8hpp.html#a9dcaa14f2998d9ae0a59c4e314446ced',1,'over_current_change():&#160;registers.hpp']]]
+];

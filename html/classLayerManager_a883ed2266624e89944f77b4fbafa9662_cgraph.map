@@ -1,0 +1,11 @@
+<map id="LayerManager::Move" name="LayerManager::Move">
+<area shape="rect" id="node1" title="レイヤーの位置情報を指定された絶対座標へと更新する。再描画はしない。" alt="" coords="5,110,164,136"/>
+<area shape="rect" id="node2" href="$classLayerManager.html#ae0ee4819ef0f0202b30209e4255ce127" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="227,84,384,111"/>
+<area shape="rect" id="node8" href="$classLayerManager.html#a2a6c85f5aca335b0213537f02e453c9d" title=" " alt="" coords="212,135,399,162"/>
+<area shape="rect" id="node3" href="$classFrameBuffer.html#a2859dc6b82a9c130a937989f46fb1c8d" title=" " alt="" coords="447,84,589,111"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#aa3237796fefeed728b104cb92c15df0a" title=" " alt="" coords="865,30,1045,86"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a69706000b5ad7f971aeb46579a0507da" title=" " alt="" coords="637,30,817,86"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a6c51e8503bd24805c6d8edab9bc13fe6" title=" " alt="" coords="637,110,817,166"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#ad701e20b08a2d0e6009600125e19845c" title=" " alt="" coords="637,190,817,246"/>
+<area shape="rect" id="node9" href="$classLayer.html#ad8c452ea77b3004cfebeae912a8906cc" title="このインスタンスのIDを返す。" alt="" coords="478,135,558,162"/>
+</map>

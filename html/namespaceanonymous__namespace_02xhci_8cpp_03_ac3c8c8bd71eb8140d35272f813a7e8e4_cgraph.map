@@ -1,0 +1,23 @@
+<map id="anonymous_namespace{xhci::cpp}::OnEvent" name="anonymous_namespace{xhci::cpp}::OnEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,508,185,549"/>
+<area shape="rect" id="node2" href="$namespaceusb_1_1xhci.html#a1df54355b3da2e8c724193fc3799c482" title=" " alt="" coords="233,457,448,483"/>
+<area shape="rect" id="node20" href="$classusb_1_1xhci_1_1Controller.html#a78be8fedeffd23c80bdb86c293abce69" title=" " alt="" coords="265,508,417,549"/>
+<area shape="rect" id="node21" href="$classusb_1_1xhci_1_1DeviceManager.html#aa7593744cc8cb5673b5cd8ca71875e91" title=" " alt="" coords="245,573,436,615"/>
+<area shape="rect" id="node3" href="$classusb_1_1xhci_1_1Device.html#a15894875f4dfe90e65ab8b2a8f8f242b" title=" " alt="" coords="537,5,678,47"/>
+<area shape="rect" id="node4" href="$classusb_1_1xhci_1_1Controller.html#aaf211b4b41707edd8e79e7e367c6f0ca" title=" " alt="" coords="531,71,683,112"/>
+<area shape="rect" id="node5" href="$classusb_1_1xhci_1_1Device.html#a8e4e103ef63a74cecf3923ea1419a4cc" title=" " alt="" coords="537,136,678,177"/>
+<area shape="rect" id="node6" href="$classusb_1_1xhci_1_1Controller.html#a2a546530f388dd45f316e8b2a874f157" title=" " alt="" coords="531,201,684,243"/>
+<area shape="rect" id="node8" href="$structusb_1_1xhci_1_1InputContext.html#afcb2ef65c889538545743ec8c3268332" title="Enable an endpoint." alt="" coords="521,267,693,308"/>
+<area shape="rect" id="node9" href="$structusb_1_1xhci_1_1InputContext.html#aec9d7b85b5806de609d729d022fbbd73" title="Enable the slot context." alt="" coords="521,332,693,373"/>
+<area shape="rect" id="node10" href="$classusb_1_1Device.html#ab262c59ce7ee3cbdb883ed694d9b7a8c" title=" " alt="" coords="502,398,713,425"/>
+<area shape="rect" id="node11" href="$classusb_1_1xhci_1_1Device.html#aba61d71f163262a2d24e6b313f16582f" title=" " alt="" coords="537,449,678,491"/>
+<area shape="rect" id="node12" href="$namespaceanonymous__namespace_02xhci_8cpp_03.html#ac8a768fa737e790c084fce025ce4695f" title=" " alt="" coords="496,515,719,556"/>
+<area shape="rect" id="node13" href="$classusb_1_1Device.html#a39e8443ae33b9513c6e993bd29f55c3b" title=" " alt="" coords="510,580,705,621"/>
+<area shape="rect" id="node14" href="$classusb_1_1xhci_1_1Controller.html#aaacc1708e91093f3a0ee304181d9f287" title=" " alt="" coords="531,645,683,687"/>
+<area shape="rect" id="node16" href="$classusb_1_1xhci_1_1Ring.html#a275136396db44eaf6fda0eae42faa948" title="TRB に cycle bit を設定した上でリング末尾に追加する．" alt="" coords="529,711,685,738"/>
+<area shape="rect" id="node17" href="$classusb_1_1xhci_1_1DoorbellRegister.html#a58e7a7b95db73d6a4b89aac02af41c59" title=" " alt="" coords="509,763,706,804"/>
+<area shape="rect" id="node18" href="$classusb_1_1xhci_1_1Device.html#a6726f0604ce19fcf4a5fb568f89f9ee5" title=" " alt="" coords="537,828,678,869"/>
+<area shape="rect" id="node19" href="$classusb_1_1xhci_1_1Port.html#ac8a04170075fd99ee806fc573598bb75" title=" " alt="" coords="526,894,689,921"/>
+<area shape="rect" id="node7" href="$classusb_1_1xhci_1_1Controller.html#ad1ce8d921969f026d9d65cfcbea02fc4" title=" " alt="" coords="767,201,919,243"/>
+<area shape="rect" id="node15" href="$classusb_1_1xhci_1_1Controller.html#ab0d66691f54bdb409bc3a147be8383ca" title=" " alt="" coords="767,645,919,687"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="InputTextWindow" name="InputTextWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,222,140,249"/>
+<area shape="rect" id="node2" href="$classLayerManager.html#ae0ee4819ef0f0202b30209e4255ce127" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="188,121,345,147"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a678dc3298277ceebf3cf40a98b9411d0" title=" " alt="" coords="204,222,329,249"/>
+<area shape="rect" id="node9" href="$graphics_8cpp.html#afdf2e5457fd56426e0b55dcfd833b203" title=" " alt="" coords="411,197,518,223"/>
+<area shape="rect" id="node11" href="$graphics_8hpp.html#a84d85927acdb0cd6d6715e7d7dd6a2ea" title=" " alt="" coords="429,247,500,274"/>
+<area shape="rect" id="node12" href="$font_8cpp.html#ae0649afc7137f19fc1dd3d308a1a4890" title=" " alt="" coords="223,323,311,350"/>
+<area shape="rect" id="node3" href="$classFrameBuffer.html#a2859dc6b82a9c130a937989f46fb1c8d" title=" " alt="" coords="393,121,536,147"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#aa3237796fefeed728b104cb92c15df0a" title=" " alt="" coords="812,34,992,90"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a69706000b5ad7f971aeb46579a0507da" title=" " alt="" coords="584,34,764,90"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#a6c51e8503bd24805c6d8edab9bc13fe6" title=" " alt="" coords="584,114,764,170"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02frame__buffer_8cpp_03.html#ad701e20b08a2d0e6009600125e19845c" title=" " alt="" coords="584,194,764,250"/>
+<area shape="rect" id="node10" href="$classPixelWriter.html#a054dce7b3582352c5590e66cee771845" title=" " alt="" coords="606,282,742,309"/>
+<area shape="rect" id="node13" href="$font_8cpp.html#a102d7798b95017da8dc5cfeb1a562f78" title=" " alt="" coords="428,349,501,375"/>
+</map>

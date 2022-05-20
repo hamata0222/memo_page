@@ -1,0 +1,14 @@
+<map id="usb::FreeMem" name="usb::FreeMem">
+<area shape="rect" id="node1" title="指定されたメモリ領域を解放する．本当に解放することは保証されない．" alt="" coords="844,215,959,241"/>
+<area shape="rect" id="node2" href="$classusb_1_1Allocator.html#aae187d9da0c990df9be03ff565fe36cb" title=" " alt="" coords="607,5,794,32"/>
+<area shape="rect" id="node3" href="$classusb_1_1xhci_1_1DeviceManager.html#a572c00b6a3521391740ce2ce4308beb3" title=" " alt="" coords="605,57,796,98"/>
+<area shape="rect" id="node7" href="$classusb_1_1xhci_1_1Ring.html#a5e4624913e000bc06eb11823160bab2c" title="リングのメモリ領域を割り当て，メンバを初期化する．" alt="" coords="610,123,791,149"/>
+<area shape="rect" id="node8" href="$classusb_1_1xhci_1_1EventRing.html#a607645ceb094980f5d3b8dfe855f028c" title=" " alt="" coords="623,174,778,215"/>
+<area shape="rect" id="node9" href="$classusb_1_1HIDMouseDriver.html#a168b2265f6682388ee18e8e1cde657c8" title=" " alt="" coords="621,239,781,281"/>
+<area shape="rect" id="node10" href="$classusb_1_1HIDKeyboardDriver.html#a305d840b09f2a2245f4a6dfd6ff7a5af" title=" " alt="" coords="611,305,790,346"/>
+<area shape="rect" id="node11" href="$classusb_1_1xhci_1_1DeviceManager.html#a175b26ec0f28cd18ad09322c7cb683c5" title=" " alt="" coords="605,370,796,411"/>
+<area shape="rect" id="node12" href="$classusb_1_1xhci_1_1Ring.html#a0a4eaefad1169f41c356080c660483c1" title=" " alt="" coords="618,436,783,463"/>
+<area shape="rect" id="node4" href="$classusb_1_1xhci_1_1Controller.html#ad286e798319710177e793c792366f3de" title=" " alt="" coords="405,115,557,157"/>
+<area shape="rect" id="node5" href="$namespaceusb_1_1xhci.html#a230710c277871c2a8fb820799c2e05e6" title=" " alt="" coords="213,123,357,149"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a7da4570c0d07e5391ac8ec4e26bc1407" title=" " alt="" coords="5,123,165,149"/>
+</map>

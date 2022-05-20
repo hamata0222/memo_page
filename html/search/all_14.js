@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['descriptor_5ftype_1225',['descriptor_type',['../namespaceusb_1_1descriptor__type.html',1,'usb']]],
+  ['request_1226',['request',['../namespaceusb_1_1request.html',1,'usb']]],
+  ['request_5ftype_1227',['request_type',['../namespaceusb_1_1request__type.html',1,'usb']]],
+  ['u1_5fdevice_5feixt_5flatency_1228',['u1_device_eixt_latency',['../unionusb_1_1xhci_1_1HCSPARAMS3__Bitmap.html#aecca87fd5616886652b5bdf53398603d',1,'usb::xhci::HCSPARAMS3_Bitmap::u1_device_eixt_latency()'],['../registers_8hpp.html#a0f63c2506e29a8ba3e6fb35dbca25a5d',1,'u1_device_eixt_latency():&#160;registers.hpp']]],
+  ['u1_5ftimeout_1229',['u1_timeout',['../unionusb_1_1xhci_1_1PORTPMSC__Bitmap.html#a218845c890eceb055b75a0a00d55a0d2',1,'usb::xhci::PORTPMSC_Bitmap::u1_timeout()'],['../registers_8hpp.html#a2c8bd9f14e8c6c8915efda020300a16e',1,'u1_timeout():&#160;registers.hpp']]],
+  ['u2_5fdevice_5feixt_5flatency_1230',['u2_device_eixt_latency',['../unionusb_1_1xhci_1_1HCSPARAMS3__Bitmap.html#a7e743fc04c7642b48581b9a13dfde81f',1,'usb::xhci::HCSPARAMS3_Bitmap::u2_device_eixt_latency()'],['../registers_8hpp.html#a73fa71f210e6f28b48352270eff8038e',1,'u2_device_eixt_latency():&#160;registers.hpp']]],
+  ['u2_5ftimeout_1231',['u2_timeout',['../unionusb_1_1xhci_1_1PORTPMSC__Bitmap.html#a30f30f30aa5588aefa369e8fd8df7238',1,'usb::xhci::PORTPMSC_Bitmap::u2_timeout()'],['../registers_8hpp.html#a3c59099b37e5c772b4d6c45abdbb2076',1,'u2_timeout():&#160;registers.hpp']]],
+  ['u3_5fentry_5fcapability_1232',['u3_entry_capability',['../unionusb_1_1xhci_1_1HCCPARAMS2__Bitmap.html#a7daecd1c6808aaaf0297ee86ee8f9686',1,'usb::xhci::HCCPARAMS2_Bitmap::u3_entry_capability()'],['../registers_8hpp.html#a92492a0e0aab0d59a2521ceba6c87c26',1,'u3_entry_capability():&#160;registers.hpp']]],
+  ['u3_5fentry_5fenable_1233',['u3_entry_enable',['../unionusb_1_1xhci_1_1CONFIG__Bitmap.html#a0c214e16c201da5a3cab24f106009672',1,'usb::xhci::CONFIG_Bitmap::u3_entry_enable()'],['../registers_8hpp.html#a9586e12cf7044689463ae5abf6e25c57',1,'u3_entry_enable():&#160;registers.hpp']]],
+  ['updown_1234',['UpDown',['../classLayerManager.html#aaee961661104c30405b50fffa02bf2b8',1,'LayerManager']]],
+  ['usage_5ftype_1235',['usage_type',['../structusb_1_1EndpointDescriptor.html#abe50413d12745e75c3540a9719a534c2',1,'usb::EndpointDescriptor::usage_type()'],['../descriptor_8hpp.html#a793697dc73305b7ac1a3941021677622',1,'usage_type():&#160;descriptor.hpp']]],
+  ['usb_1236',['usb',['../namespaceusb.html',1,'']]],
+  ['usb_5fdevice_5faddress_1237',['usb_device_address',['../unionusb_1_1xhci_1_1SlotContext.html#a718d65eb272b5808348622eca2ea4ed2',1,'usb::xhci::SlotContext::usb_device_address()'],['../context_8hpp.html#a658f86ddff4bbc1b00288a0d10885edc',1,'usb_device_address():&#160;context.hpp']]],
+  ['usb_5frelease_1238',['usb_release',['../structusb_1_1DeviceDescriptor.html#a7194ea92843d3b8b64279dcb3d2b9d72',1,'usb::DeviceDescriptor::usb_release()'],['../descriptor_8hpp.html#a3c210f0b5d57c3cc2b210ab7bb9a0624',1,'usb_release():&#160;descriptor.hpp']]],
+  ['usbcmd_1239',['USBCMD',['../structusb_1_1xhci_1_1OperationalRegisters.html#a230b2d13015055a0aa0e427ff99bbf6d',1,'usb::xhci::OperationalRegisters::USBCMD()'],['../registers_8hpp.html#a8e5f06a9a6879a7d087701c35577a8b5',1,'USBCMD():&#160;registers.hpp']]],
+  ['usbcmd_5fbitmap_1240',['USBCMD_Bitmap',['../unionusb_1_1xhci_1_1USBCMD__Bitmap.html',1,'usb::xhci']]],
+  ['usblegsup_5fbitmap_1241',['USBLEGSUP_Bitmap',['../unionusb_1_1xhci_1_1USBLEGSUP__Bitmap.html',1,'usb::xhci']]],
+  ['usbsts_1242',['USBSTS',['../structusb_1_1xhci_1_1OperationalRegisters.html#a0402e3b6a108d00eeeb66f7ddeb4077a',1,'usb::xhci::OperationalRegisters::USBSTS()'],['../registers_8hpp.html#a04c50f956b08d5ddba6a233960ef521a',1,'USBSTS():&#160;registers.hpp']]],
+  ['usbsts_5fbitmap_1243',['USBSTS_Bitmap',['../unionusb_1_1xhci_1_1USBSTS__Bitmap.html',1,'usb::xhci']]],
+  ['xhci_1244',['xhci',['../namespaceusb_1_1xhci.html',1,'usb']]]
+];

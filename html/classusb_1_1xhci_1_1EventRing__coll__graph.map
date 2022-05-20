@@ -1,0 +1,16 @@
+<map id="usb::xhci::EventRing" name="usb::xhci::EventRing">
+<area shape="rect" id="node1" title=" " alt="" coords="945,202,1100,229"/>
+<area shape="rect" id="node2" href="$structusb_1_1xhci_1_1InterrupterRegisterSet.html" title=" " alt="" coords="584,143,816,170"/>
+<area shape="rect" id="node3" href="$classMemMapRegister.html" title=" " alt="" coords="300,5,475,47"/>
+<area shape="rect" id="node4" href="$unionusb_1_1xhci_1_1ERDP__Bitmap.html" title=" " alt="" coords="13,13,191,39"/>
+<area shape="rect" id="node5" href="$classMemMapRegister.html" title=" " alt="" coords="295,71,479,112"/>
+<area shape="rect" id="node6" href="$unionusb_1_1xhci_1_1ERSTSZ__Bitmap.html" title=" " alt="" coords="6,78,198,105"/>
+<area shape="rect" id="node7" href="$classMemMapRegister.html" title=" " alt="" coords="300,136,475,177"/>
+<area shape="rect" id="node8" href="$unionusb_1_1xhci_1_1IMOD__Bitmap.html" title=" " alt="" coords="13,143,191,170"/>
+<area shape="rect" id="node9" href="$classMemMapRegister.html" title=" " alt="" coords="300,201,475,243"/>
+<area shape="rect" id="node10" href="$unionusb_1_1xhci_1_1IMAN__Bitmap.html" title=" " alt="" coords="13,209,191,235"/>
+<area shape="rect" id="node11" href="$classMemMapRegister.html" title=" " alt="" coords="295,267,480,308"/>
+<area shape="rect" id="node12" href="$unionusb_1_1xhci_1_1ERSTBA__Bitmap.html" title=" " alt="" coords="5,274,199,301"/>
+<area shape="rect" id="node13" href="$unionusb_1_1xhci_1_1EventRingSegmentTableEntry.html" title=" " alt="" coords="594,195,806,236"/>
+<area shape="rect" id="node14" href="$unionusb_1_1xhci_1_1TRB.html" title=" " alt="" coords="643,261,757,287"/>
+</map>

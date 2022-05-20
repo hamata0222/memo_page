@@ -1,0 +1,52 @@
+<map id="usb::xhci::Initialize" name="usb::xhci::Initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,593,149,619"/>
+<area shape="rect" id="node2" href="$namespacepci.html#af57068dc97191fcc3cf5b5d4b201e433" title=" " alt="" coords="197,162,441,189"/>
+<area shape="rect" id="node13" href="$namespaceusb_1_1xhci.html#ac2787bcc15dfa613708459412c73351f" title=" " alt="" coords="231,534,407,561"/>
+<area shape="rect" id="node17" href="$logger_8cpp.html#a7b67f04545cc3bc4793c750046527b99" title=" " alt="" coords="892,643,937,670"/>
+<area shape="rect" id="node23" href="$classusb_1_1xhci_1_1Controller.html#ad286e798319710177e793c792366f3de" title=" " alt="" coords="243,789,395,831"/>
+<area shape="rect" id="node41" href="$classusb_1_1xhci_1_1Controller.html#ad0c90fa8470109badcc3bfb23e81e168" title=" " alt="" coords="243,855,395,896"/>
+<area shape="rect" id="node42" href="$classError.html#a4bdebc8c23b31662aeb384a9d437717d" title=" " alt="" coords="269,921,369,947"/>
+<area shape="rect" id="node43" href="$classusb_1_1xhci_1_1Controller.html#aaacc1708e91093f3a0ee304181d9f287" title=" " alt="" coords="243,972,395,1013"/>
+<area shape="rect" id="node45" href="$namespacepci.html#a246e1675be11897121479241ac631948" title=" " alt="" coords="267,238,371,265"/>
+<area shape="rect" id="node47" href="$namespacepci.html#a9aaf9ef581a7cca6de291efc3c2036c9" title="ベンダ ID レジスタを読み取る（全ヘッダタイプ共通）" alt="" coords="1087,293,1225,319"/>
+<area shape="rect" id="node48" href="$classusb_1_1xhci_1_1Controller.html#af33839b864df11916aacbda68c51525d" title=" " alt="" coords="227,1038,412,1065"/>
+<area shape="rect" id="node49" href="$namespaceanonymous__namespace_02xhci_8cpp_03.html#a973b0fa3a5cf128fe2be864d14167079" title=" " alt="" coords="511,409,722,451"/>
+<area shape="rect" id="node3" href="$namespacepci.html#a9cf4f1b2a0e810f6400d9ad4352e8f1c" title=" " alt="" coords="549,137,684,163"/>
+<area shape="rect" id="node4" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#aefa3a5640db48a27c677445cc0ccd6fb" title="指定された MSI レジスタを設定する" alt="" coords="797,5,1033,47"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#a3f42ff61b29b2177aa8c9cecdf2c692d" title="指定された MSI レジスタを設定する" alt="" coords="792,71,1037,112"/>
+<area shape="rect" id="node6" href="$namespacepci.html#af756f5d8f79098469c965aa978af6428" title=" " alt="" coords="817,137,1012,163"/>
+<area shape="rect" id="node7" href="$namespacepci.html#a26c366582513de13df3b528f68f375d8" title=" " alt="" coords="1087,238,1225,265"/>
+<area shape="rect" id="node8" href="$namespaceanonymous__namespace_02pci_8cpp_03.html#abd330fe97e663309fecc896e4932d478" title=" " alt="" coords="1275,285,1457,327"/>
+<area shape="rect" id="node9" href="$namespacepci.html#a8741a587a5830a28a32e3ef92478c753" title="CONFIG_DATA から 32 ビット整数を読み込む" alt="" coords="1309,234,1423,261"/>
+<area shape="rect" id="node11" href="$namespacepci.html#a8be41f4f95b4aee92f03e6e46d74c814" title="CONFIG_ADDRESS に指定された整数を書き込む" alt="" coords="1298,351,1434,378"/>
+<area shape="rect" id="node10" href="$asmfunc_8h.html#a59c93c061a197453c0214e2424b428c8" title=" " alt="" coords="1511,234,1573,261"/>
+<area shape="rect" id="node12" href="$asmfunc_8h.html#ae9e509af3817e40529f9d4c358bd2581" title=" " alt="" coords="1505,351,1579,378"/>
+<area shape="rect" id="node14" href="$classusb_1_1xhci_1_1Port.html#a4564877db0b7ab0b5cf25e94ee406ae5" title=" " alt="" coords="827,491,1002,518"/>
+<area shape="rect" id="node15" href="$namespaceanonymous__namespace_02xhci_8cpp_03.html#a496b34569d293b42029c189d10f6c3fc" title=" " alt="" coords="527,527,707,568"/>
+<area shape="rect" id="node16" href="$classusb_1_1xhci_1_1Port.html#a827cc119289d1d9de12a1cb5e5ceb711" title=" " alt="" coords="813,593,1016,619"/>
+<area shape="rect" id="node22" href="$classusb_1_1xhci_1_1Port.html#a59e27e44fc516a98d611c5ceb58e923e" title=" " alt="" coords="835,542,994,569"/>
+<area shape="rect" id="node18" href="$classConsole.html#aef377e36e2bc7a3d8bee3086006ab7a7" title=" " alt="" coords="1085,643,1227,670"/>
+<area shape="rect" id="node19" href="$classLayerManager.html#ae0ee4819ef0f0202b30209e4255ce127" title="現在表示状態にあるレイヤーを描画する。" alt="" coords="1287,593,1445,619"/>
+<area shape="rect" id="node20" href="$classConsole.html#a7d8b60aa36e7ac1c2a9fc8d8cc8016f0" title=" " alt="" coords="1299,643,1433,670"/>
+<area shape="rect" id="node21" href="$font_8cpp.html#ae0649afc7137f19fc1dd3d308a1a4890" title=" " alt="" coords="1322,694,1410,721"/>
+<area shape="rect" id="node24" href="$namespaceusb.html#a86621f971b6f135f738ad641bcf879c0" title="指定されたバイト数のメモリ領域を確保して先頭ポインタを返す．" alt="" coords="557,826,676,853"/>
+<area shape="rect" id="node26" href="$classusb_1_1xhci_1_1DeviceManager.html#a4fa25d1a6fd5c160ac9933003fed58c9" title=" " alt="" coords="521,695,712,736"/>
+<area shape="rect" id="node27" href="$classusb_1_1xhci_1_1DeviceManager.html#a572c00b6a3521391740ce2ce4308beb3" title=" " alt="" coords="521,995,712,1036"/>
+<area shape="rect" id="node29" href="$classusb_1_1xhci_1_1Ring.html#a5e4624913e000bc06eb11823160bab2c" title="リングのメモリ領域を割り当て，メンバを初期化する．" alt="" coords="526,943,707,970"/>
+<area shape="rect" id="node30" href="$classusb_1_1xhci_1_1EventRing.html#a607645ceb094980f5d3b8dfe855f028c" title=" " alt="" coords="539,1125,694,1167"/>
+<area shape="rect" id="node34" href="$classusb_1_1xhci_1_1Controller.html#aa1d1fd681a42199bca4ce5d613817b84" title=" " alt="" coords="526,877,707,919"/>
+<area shape="rect" id="node35" href="$namespaceanonymous__namespace_02xhci_8cpp_03.html#a4133327bd6ec5fac64f5e44a96751671" title=" " alt="" coords="489,1191,744,1232"/>
+<area shape="rect" id="node39" href="$namespaceanonymous__namespace_02xhci_8cpp_03.html#a327c7198e6f38caf6f20ebda1c9d651f" title=" " alt="" coords="494,760,739,801"/>
+<area shape="rect" id="node40" href="$unionusb_1_1xhci_1_1DCBAAP__Bitmap.html#a2c126106ec6cee6f687ca0e509d97e1d" title=" " alt="" coords="519,1060,715,1101"/>
+<area shape="rect" id="node25" href="$namespaceanonymous__namespace_02memory_8cpp_03.html#a8211674d90a45d443345b743143bddd0" title=" " alt="" coords="825,819,1005,860"/>
+<area shape="rect" id="node28" href="$namespaceusb.html#ac9cb82e64066527bc32642b2ee48417b" title="指定されたメモリ領域を解放する．本当に解放することは保証されない．" alt="" coords="857,950,972,977"/>
+<area shape="rect" id="node31" href="$unionusb_1_1xhci_1_1ERSTBA__Bitmap.html#ade4f3bff0ac549afa00270915df8d0db" title=" " alt="" coords="818,1184,1011,1225"/>
+<area shape="rect" id="node32" href="$unionusb_1_1xhci_1_1ERSTSZ__Bitmap.html#aeae47ee815e54ed0af9148fc1fc7e841" title=" " alt="" coords="819,1119,1011,1160"/>
+<area shape="rect" id="node33" href="$classusb_1_1xhci_1_1EventRing.html#a4dd562b6db3f04bbcd6bf0fcba17ba9b" title=" " alt="" coords="830,1001,999,1043"/>
+<area shape="rect" id="node36" href="$classusb_1_1xhci_1_1Ring.html#abee6a4476eb252eb67982fbdcac81d34" title=" " alt="" coords="833,1301,997,1327"/>
+<area shape="rect" id="node37" href="$classMemMapRegister.html#a7d0631093e47440e0b414383dde241ea" title=" " alt="" coords="825,1067,1004,1094"/>
+<area shape="rect" id="node38" href="$classMemMapRegister.html#a4bd4e2326664194cc74cea3996ad4a13" title=" " alt="" coords="825,1250,1005,1277"/>
+<area shape="rect" id="node44" href="$classusb_1_1xhci_1_1Controller.html#ab0d66691f54bdb409bc3a147be8383ca" title=" " alt="" coords="541,1256,693,1297"/>
+<area shape="rect" id="node46" href="$namespacepci.html#a7503f9632bc66a8890156edaafef46a7" title=" " alt="" coords="541,187,692,214"/>
+<area shape="rect" id="node50" href="$namespacepci.html#a8664d6328011718b702012b81065983b" title=" " alt="" coords="1087,351,1225,378"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="usb::xhci::Ring::~Ring" name="usb::xhci::Ring::~Ring">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$namespaceusb.html#ac9cb82e64066527bc32642b2ee48417b" title="指定されたメモリ領域を解放する．本当に解放することは保証されない．" alt="" coords="219,5,333,32"/>
+</map>
